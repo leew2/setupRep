@@ -1,10 +1,10 @@
 {
-  "name": "react-app",
+  "name": "wang-lee-setup",
   "version": "0.1.0",
   "private": true,
   "engines":{
     "npm": "9.6.1",
-    "node": "19.8.1"
+    "node": "18.15.0"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
